@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Halo and I want to be cool!
 <!--
 **OneEyedPurpleEater/OneEyedPurpleEater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
